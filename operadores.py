@@ -16,3 +16,9 @@
 # and &&
 # or  ||
 # not !
+# < menor que
+# > mayor que
+# <= menor o igual que
+# >= mayor o igual que
+# == igual que
+# != distinto que
